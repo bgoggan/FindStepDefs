@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindStepDefs", "FindStepDefs\FindStepDefs.csproj", "{78A915AB-2976-4D90-843F-12B8F0AA60CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepDefs", "StepDefs\StepDefs.csproj", "{BE208092-2945-4619-8C52-1864A9293D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A915AB-2976-4D90-843F-12B8F0AA60CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A915AB-2976-4D90-843F-12B8F0AA60CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A915AB-2976-4D90-843F-12B8F0AA60CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A915AB-2976-4D90-843F-12B8F0AA60CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE208092-2945-4619-8C52-1864A9293D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE208092-2945-4619-8C52-1864A9293D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE208092-2945-4619-8C52-1864A9293D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE208092-2945-4619-8C52-1864A9293D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99F2725-F781-4696-9007-2522B8A572C6}
+	EndGlobalSection
+EndGlobal
